@@ -1,4 +1,4 @@
-tensorflow-gpu==2.3.0
+tensorflow-gpu==2.3.3
 tensorflow_addons
 scikit-learn
 scikit-image
