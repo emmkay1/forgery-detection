@@ -14,7 +14,7 @@ The code for this two-stream network can be found in `forgery-project/two_stream
 ## Environment
 AWS sagemaker was utilized to run the code. AWS allows you to set up your environment quickly. You can easily increase the number of GPU's required for your needs.
 
-The instance was configured with forty-eight high memory CPUs and has a memory of size 192 GB. It is also configured with four NVIDIA Tesla T4 GPUs. **TensorFlow 2.3 gpu**  and **Python 3.7** were used.
+The instance was configured with forty-eight high memory CPUs with a memory of size 192 GB. It was also configured with four NVIDIA Tesla T4 GPUs. **TensorFlow 2.3 gpu**  and **Python 3.7** were used.
 
 To do it locally would require configuring Tensorflow GPU with CUDA. You can find tutorials on how to do so through a quick Google search.
 
