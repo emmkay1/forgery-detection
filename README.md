@@ -39,3 +39,6 @@ To create the dataset follow the steps below:
 Run `data_create` to create a folder of images with tampered images and another with authentic images for both training and testing if required. Uncomment code in the file for what you need.
 
 The other dataset that was used is CASIA v2 which was mainly used for testing. CASIA can be downloaded from [kaggle](https://www.kaggle.com/sophatvathana/casia-dataset).
+
+## Future Plans
+I plan on publishing a paper based on this work in the near future. Check it out when its out. I will update the repo when that happens. I also plan on extending this work to include localization of forged regions.
